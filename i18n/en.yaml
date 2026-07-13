@@ -2,7 +2,7 @@
 - id: "meta_title"
   translation: "spyingonscience mit Biologin Andrea Koplitz-Weissgerber, M. Sc."
 - id: "meta_description"
-  translation: "This hugo theme (Adritian) is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications."
+  translation: "spyingonscience — freelance biologist Andrea Koplitz-Weissgerber specializing in limnology, freshwater research, and science communication."
 - id: "meta_keywords"
   translation: "hugo, theme, bootstrap, adritian, adrian moreno, personal site, portfolio, single page application"
 - id: "meta_author"
@@ -50,7 +50,7 @@
   translation: "spyingonscience mit Biologin Andrea Koplitz-Weissgerber, M. Sc."
 
 - id: "head_description"
-  translation: "This hugo theme (Adritian) is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications."
+  translation: "spyingonscience — freelance biologist Andrea Koplitz-Weissgerber specializing in limnology, freshwater research, and science communication."
 
 
 ## Blog
