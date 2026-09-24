@@ -64,7 +64,6 @@ target = "assets/css/bootstrap-print.css"
 
 [params]
 title = 'Adritian - a high performance hugo theme by Adrián Moreno'
-description = 'spyingonscience — freelance biologist Andrea Koplitz-Weissgerber specializing in limnology, freshwater research, and science communication.'
 images = ['/img/og-img.png']
 sections = [
   "showcase",
